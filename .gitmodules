@@ -1,0 +1,21 @@
+[submodule "sparkup"]
+	path = sparkup
+	url = https://github.com/rstacruz/sparkup.git
+[submodule "tabular"]
+	path = tabular
+	url = https://github.com/godlygeek/tabular.git
+[submodule "auto-pairs"]
+	path = auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "closetag.vim"]
+	path = closetag.vim
+	url = https://github.com/docunext/closetag.vim.git
+[submodule "YankRing.vim"]
+	path = YankRing.vim
+	url = https://github.com/vim-scripts/YankRing.vim.git
+[submodule "PIV"]
+	path = PIV
+	url = https://github.com/spf13/PIV
+[submodule "phpfolding.vim"]
+	path = phpfolding.vim
+	url = https://github.com/vim-scripts/phpfolding.vim.git
